@@ -1,0 +1,18 @@
+{
+  "name": "Full-stack banking application using MERN stack",
+  "version": "1.0.0",
+  "description": "This is an application to simulate a real bank website. We are adding MongoDB database to the application and create a data abstration layer so that the application is not dependent on one database option.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "richard@deal-commerce.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "mongodb": "^3.6.2"
+  }
+}
