@@ -17,6 +17,8 @@ This is an application to simulate a real bank website. We are adding MongoDB da
 
 # Screenshots:
 
+<img width="1437" alt="Badbank Homepage" src="https://user-images.githubusercontent.com/45321048/158087654-1aa6cd3a-1b7e-4e49-95b1-3f402019263e.png">
+
 # Technology used:
 
 MERN stack
